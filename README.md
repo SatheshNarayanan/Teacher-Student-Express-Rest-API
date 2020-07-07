@@ -1,2 +1,3 @@
 # Teacher-Student-Express-Rest-API
-Created with CodeSandbox
+
+ This is a model of a Teacher-Student Rest API created with Express.js
