@@ -2,4 +2,6 @@
 
  This is a model of a Teacher-Student Rest API created with Express.js
  
- <iframe src = "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find">
+
+
+<iframe width="100%" src="https://documenter.getpostman.com/view/11940824/T17J8n9i?version=latest"> </iframe>
