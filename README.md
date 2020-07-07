@@ -2,7 +2,7 @@
 
  This is a model of a Teacher-Student Rest API created with Express.js
  
- Find my code in [codesandbox.io](https://codesandbox.io/s/nostalgic-haze-cnei8)
+ Find my code in [codesandbox.io](https://codesandbox.io/s/github/SatheshNarayanan/Teacher-Student-Express-Rest-API)
  
 # Documentation of this API is done with help of Postman
 
