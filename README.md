@@ -10,4 +10,4 @@ This Documentation is Done with the Help of Postman
 
 [Teacher-Student-REST-API](https://documenter.getpostman.com/view/11940824/T17J8n9i?version=latest)
 
-Next Plans : Implementing the same login in GraphQL
+Next Plans : Implementing the same logic in GraphQL
